@@ -1,0 +1,30 @@
+html,
+body {
+    background: #222;
+}
+
+
+h1 {
+   text-shadow: 1px 1px OldLace, 1px 1px PeachPuff;
+   color: #cca;
+}
+
+.pre-title {
+    text-align: center;
+}
+
+.pre-title-text {
+    width: 40vw;
+    color: white;
+    font-size: 3vw;
+    letter-spacing: 1.5vw;
+    display: inline-block;
+}
+
+.pre-title .pre-title-line {
+    display: inline-block;
+    vertical-align: middle;
+    height: 1px;
+    width: 20vw;
+    background: pink;
+}
